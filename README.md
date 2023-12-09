@@ -1,6 +1,6 @@
 # @openrealm/hub-web
 
-A fast and easy REST-like interface to work with Openrealm Hubs. Designed to work with [Hub](https://github.com/openrealmxyz/hub/) and any other Hub that implements the [Openrealm protocol](https://github.com/openrealmxyz/protocol).
+A fast and easy REST-like interface to work with Openrealm Hubs. Designed to work with [Hub](https://github.com/openrealmsocial/hub/) and any other Hub that implements the [Openrealm protocol](https://github.com/openrealmxyz/protocol).
 
 ## Features
 - Call any endpoint using a simple HTTP API, including from a browser environment
