@@ -36,10 +36,6 @@ try {
 }
 ```
 
-## grpc-Web
-grpc-web was an older way of proxying to the grpc API from web environments. This has been deprecated and is no longer supported. You can read the original [grpc-web documentation and examples here](./README.grpcweb.md).
-
-
 ## License
 
 MIT License
